@@ -1,0 +1,5 @@
+var main = fn(args[]) {
+    var a = 1 + args[0];
+    var b = a * (a**a);
+    return b == ;
+}

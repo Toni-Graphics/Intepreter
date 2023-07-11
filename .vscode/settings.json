@@ -1,0 +1,30 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "string": "cpp",
+        "cctype": "cpp",
+        "cstdarg": "cpp",
+        "cstddef": "cpp",
+        "cstdio": "cpp",
+        "cstdlib": "cpp",
+        "cstring": "cpp",
+        "ctime": "cpp",
+        "cwchar": "cpp",
+        "exceptio": "cpp",
+        "fstream": "cpp",
+        "function": "cpp",
+        "ios": "cpp",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "iterator": "cpp",
+        "list": "cpp",
+        "memory": "cpp",
+        "new": "cpp",
+        "stdexcep": "cpp",
+        "streambu": "cpp",
+        "type_tra": "cpp",
+        "typeinfo": "cpp",
+        "sstream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
