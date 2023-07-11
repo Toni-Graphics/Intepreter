@@ -27,3 +27,6 @@ clean:
 	
 clean_objs:
 	@rm -f $(OBJS)
+
+install:
+	@sudo apt install g++
